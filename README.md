@@ -6,6 +6,6 @@
 
 [LEIC-A](https://fenix.tecnico.ulisboa.pt/cursos/leic-a)
 
-[FP](https://fenix.tecnico.ulisboa.pt/disciplinas/LP564511/2014-2015/2-semestre)
+[LP](https://fenix.tecnico.ulisboa.pt/disciplinas/LP564511/2014-2015/2-semestre)
 
 Projects Grade - 18.1/20
