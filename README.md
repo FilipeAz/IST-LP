@@ -8,4 +8,4 @@
 
 [LP](https://fenix.tecnico.ulisboa.pt/disciplinas/LP564511/2014-2015/2-semestre)
 
-Projects Grade - 18.1/20
+Project Grade - 18.1/20
